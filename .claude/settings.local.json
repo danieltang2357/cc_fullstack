@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git clone:*)",
+      "Bash(python3 -m pip:*)",
+      "Bash(pip3 install:*)",
+      "Bash(npm install:*)",
+      "Bash(python3:*)",
+      "Bash(pptxgenjs:*)",
+      "Bash(claude plugin list:*)",
+      "Bash(claude plugin:*)",
+      "Bash(node create_skills_presentation.js:*)",
+      "Bash(unzip:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
